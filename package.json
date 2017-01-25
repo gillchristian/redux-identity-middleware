@@ -1,0 +1,24 @@
+{
+  "name": "redux-identity-middleware",
+  "version": "1.0.0",
+  "description": "redux identity middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillchristian/redux-identity-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "middleware",
+    "identity"
+  ],
+  "author": "gillchristian <gillchristiang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gillchristian/redux-identity-middleware/issues"
+  },
+  "homepage": "https://github.com/gillchristian/redux-identity-middleware#readme"
+}
